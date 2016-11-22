@@ -1,8 +1,11 @@
 {
   "name": "react-examples.github.io",
   "version": "0.0.0",
-  "description": "",
+  "description": "repository for https://react-examples.github.io",
   "main": "index.js",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/react-examples/react-examples.github.io.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react"],
+  "author": "LightSpeedC",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/react-examples/react-examples.github.io/issues"
